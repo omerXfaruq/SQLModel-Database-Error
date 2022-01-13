@@ -4,7 +4,7 @@ SQLModel-Database-Error demo using sqlite database.
 
 
 ```
-➜  Database-Test uvicorn main:app
+➜  SQLModel-Database-Error uvicorn main:app
 INFO:     Started server process [41634]
 INFO:     Waiting for application startup.
 INFO:     Application startup complete.
@@ -21,7 +21,7 @@ tick: 13, user: telegram_chat_id=0 active=True id=1 name='string' gmt=0 schedule
 INFO:     Waiting for application shutdown.
 INFO:     Application shutdown complete.
 INFO:     Finished server process [41634]
-➜  Database-Test uvicorn main:app
+➜  SQLModel-Database-Error uvicorn main:app
 INFO:     Started server process [41664]
 INFO:     Waiting for application startup.
 INFO:     Application startup complete.
